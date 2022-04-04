@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 firebase.json
+.firebaserc
 
 # Editor directories and files
 .vscode/*
