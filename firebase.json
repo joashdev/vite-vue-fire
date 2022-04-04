@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "matchit",
+    "site": "your-site-here",
     "public": "dist",
     "ignore": [
       "firebase.json",
